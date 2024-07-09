@@ -38,7 +38,7 @@ const projects = [
     title: 'To-Do-list',
     description: 'its main work was totrack your to do items weather comlete or incomplete or yoou are working on it',
     image: 'https://th.bing.com/th/id/R.b6e0075c90aa863d1604fcea660ff6c3?rik=c0otgJqFF8JFsA&pid=ImgRaw&r=0',
-    link:'',
+    link:'https://todo-list-wine-omega-27.vercel.app/',
     technologies: ['MongoDb', 'React', 'Node.js','express.js'],
   },
   {
